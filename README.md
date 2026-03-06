@@ -18,6 +18,8 @@ marp index.md --html -o index.html
 
 # プレビュー表示（自動更新）
 marp -w index.md --html
+```
+
 🎯 内容
 スタートアップの成長曲線 - コールドスタートから参入障壁までの5つのステージ
 コールドスタート問題とは - hard side と easy side の定義と重要性
